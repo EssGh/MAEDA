@@ -12,6 +12,9 @@ Mobile App Programming
   
  Connection to database 
  - Using "Firebase" to hosts databases, services, authentication, and integration for the application.
+   .
+   .
+   .
 
 ![image alt](https://github.com/EssGh/MAEDA/blob/main/%D8%B5%D9%88%D8%B1%D8%A92.jpg?raw=true)
 
